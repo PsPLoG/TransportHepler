@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="none">#ffffff</color>
+    <!-- 지하철 아이덴티티 컬러: 네이버 지하철 참고 -->
+    <color name="seoul_subway_1">#1D2984</color>
+    <color name="seoul_subway_2">#34AA39</color>
+    <color name="seoul_subway_3">#FC5C08</color>
+    <color name="seoul_subway_4">#278BD6</color>
+    <color name="seoul_subway_5">#7412D8</color>
+    <color name="seoul_subway_6">#A43C0C</color>
+    <color name="seoul_subway_7">#566111</color>
+    <color name="seoul_subway_8">#DC005B</color>
+    <color name="seoul_subway_9">#C2952D</color>
+    <color name="incheon_subway_1">#5D85C5</color>
+    <color name="incheon_subway_2">#FDAA40</color>
+    <color name="bundang_subway">#FEC629</color>
+    <color name="bundang_subway_new">#950D25</color>
+    <color name="seoul_subway_kyongui_jungang">#02AD78</color>
+    <color name="seoul_subway_kyongchun">#278955</color>
+    <color name="seoul_subway_airport">#5893C6</color>
+    <color name="uijeongbu_subway">#FD8A1F</color>
+    <color name="seoul_subway_suin">#FEC629</color>
+    <color name="seoul_subway_everline">#67BA5E</color>
+    <color name="incheon_subway_mf">#FC833F</color>
+    <color name="seoul_subway_kyongkang">#206BEE</color>
+    <color name="seoul_subway_uisinseol">#BAB706</color>
+    <color name="seoul_subway_seohae">#7BBC31</color>
+
+    <color name="busan_subway_1">#f0602f</color>
+    <color name="busan_subway_2">#38b149</color>
+    <color name="busan_subway_3">#d4a556</color>
+    <color name="busan_subway_4">#426fb5</color>
+    <color name="busan_subway_gimhea">#80499c</color>
+    <color name="busan_subway_donghea">#a3c3e2</color>
+    <color name="gwangju_subway_1">#3cb44a</color>
+    <color name="deajeon_subway_1">#38b149</color>
+    <color name="deagu_subway_1">#f0602f</color>
+    <color name="deagu_subway_2">#3cb44a</color>
+    <color name="deagu_subway_3">#fec057</color>
+
+    <color name="srt_train">#572b4c</color>
+    <color name="color_f8f8f8">#f8f8f8</color>
+    <color name="color_22222">#222222</color>
+    <color name="color_777777">#777777</color>
+    <color name="color_f7f9ff">#f7f9ff</color>
+    <color name="color_ff0000">#ff0000</color>
+    <color name="color_3366ff">#3366ff</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_d8d8d8">#d8d8d8</color>
+    <color name="color_1798fe">#1798fe</color>
+    <color name="color_cbcbcb">#cbcbcb</color>
+    <color name="color_2861ff">#2861ff</color>
+    <color name="imoa_primary_color">#10C8E0</color>
+    <color name="color_888888">#888888</color>
+
+    <color name="bus_outer">#43B1BD</color>
+    <color name="seoul_bus_long">#0068b7</color>
+    <color name="seoul_bus_short">#53b332</color>
+    <color name="seoul_bus_town">#53b332</color>
+    <color name="seoul_bus_circuit">#f2b70a</color>
+    <color name="seoul_bus_suburban">#e60012</color>
+    <color name="seoul_bus_night">#3d5bab</color>
+
+    <color name="busan_bus_normal">#3399ff</color>
+    <color name="busan_bus_seat">#ff3300</color>
+    <color name="busan_bus_express">#ff3300</color>
+    <color name="busan_bus_night">#666666</color>
+    <color name="busan_bus_town">#5bb025</color>
+
+    <color name="daegu_bus_express">#dc2323</color>
+    <color name="daegu_bus_long">#1c78cf</color>
+    <color name="daegu_bus_short">#ffcd12</color>
+    <color name="daegu_bus_circuit">#008829</color>
+
+    <color name="incheon_bus_long">#0068b7</color>
+    <color name="incheon_bus_long_express">#5112ab</color>
+    <color name="incheon_bus_short">#53b332</color>
+    <color name="incheon_bus_town_seat">#3d5bab</color>
+    <color name="incheon_bus_intercity_seat">#800000</color>
+    <color name="incheon_bus_airport_seat">#3d5bab</color>
+    <color name="incheon_bus_suburban">#e60012</color>
+    <color name="incheon_bus_public">#ffc600</color>
+    <color name="incheon_bus_ganghwa">#0068b7</color>
+
+
+    <color name="gwangju_bus_express_seat">#cc0000</color>
+    <color name="gwangju_bus_express_long">#cc0000</color>
+    <color name="gwangju_bus_long">#ffc600</color>
+    <color name="gwangju_bus_short">#008000</color>
+    <color name="gwangju_bus_town">#5112ab</color>
+
+    <color name="daejun_bus_express">#e60012</color>
+    <color name="daejun_bus_long">#0068b7</color>
+    <color name="daejun_bus_short">#53b332</color>
+    <color name="daejun_bus_town">#3ba5f4</color>
+
+    <color name="ulsan_bus_normal">#ffc600</color>
+    <color name="ulsan_bus_short">#164e7a</color>
+    <color name="ulsan_bus_direct_seat">#9999ff</color>
+    <color name="ulsan_bus_limousine">#800020</color>
+    <color name="ulsan_bus_express">#800020</color>
+    <color name="ulsan_bus_town">#99cc66</color>
+
+    <color name="gyeonggi_bus_normal">#009e96</color>
+    <color name="gyeonggi_bus_seat">#0068b7</color>
+    <color name="gyeonggi_bus_direct_seat">#e60012</color>
+    <color name="gyeonggi_bus_express_long">#e60012</color>
+    <color name="gyeonggi_bus_circuit">#e60012</color>
+    <color name="gyeonggi_bus_goodmorning">#ffd700</color>
+    <color name="gyeonggi_bus_ddabok">#bb2266</color>
+    <color name="gyeonggi_bus_town">#ffc600</color>
+    <color name="gyeonggi_bus_intercity">#a800ff</color>
+</resources>
