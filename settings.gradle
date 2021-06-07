@@ -1,0 +1,4 @@
+include ':TransportHelperLib'
+include ':app'
+project(':TransportHelperLib').projectDir = new File(rootDir, 'TransportHelper/')
+rootProject.name = "TransportHelperSample"
