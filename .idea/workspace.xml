@@ -5,18 +5,72 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a75ea582-a140-4f00-acf3-2089b694dd63" name="Default Changelist" comment="" />
+    <list default="true" id="a75ea582-a140-4f00-acf3-2089b694dd63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TransportHelper/src/main/res/drawable/rect_stroke_black_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TransportHelper/src/main/res/drawable/round_stroke_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/psplog/transporthelpersample/TransportAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/psplog/transporthelpersample/TransportBusItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/TransportHelperSample.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/TransportHelperSample.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TransportHelper/src/main/java/kr/co/supermove/transporthelper/BusUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TransportHelper/src/main/java/kr/co/supermove/transporthelper/BusUtils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TransportHelper/src/main/java/kr/co/supermove/transporthelper/ViewDrawableExtention.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TransportHelper/src/main/java/kr/co/supermove/transporthelper/ViewDrawableExtention.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/psplog/transporthelpersample/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/psplog/transporthelpersample/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_bus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_bus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R3CR10YFQLB]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TransportHelper" />
@@ -30,9 +84,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TransportHelper/src/main/res/drawable" />
+    <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TransportHelper/src/main/res/drawable" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -42,7 +102,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="TransportHelperSample.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -113,10 +173,74 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="805" y="444" key="#PSD" timestamp="1623041101135">
+    <state x="805" y="444" key="#PSD" timestamp="1623043971099">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
-    <state x="805" y="444" key="#PSD/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623041101134" />
+    <state x="805" y="444" key="#PSD/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623043971099" />
+    <state x="1059" y="428" key="#com.intellij.ide.util.MemberChooser" timestamp="1623043460811">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="1059" y="428" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623043460811" />
+    <state x="901" y="331" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1623043827900">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="901" y="331" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623043827900" />
+    <state x="868" y="467" key="AndroidCreateResourceFileDialog" timestamp="1623115954535">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="868" y="467" key="AndroidCreateResourceFileDialog/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623115954535" />
+    <state width="2518" height="392" key="GridCell.Tab.0.bottom" timestamp="1623064451380">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.bottom/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623064451380" />
+    <state width="2518" height="392" key="GridCell.Tab.0.center" timestamp="1623064451380">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.center/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623064451380" />
+    <state width="2518" height="392" key="GridCell.Tab.0.left" timestamp="1623064451380">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.left/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623064451380" />
+    <state width="2518" height="392" key="GridCell.Tab.0.right" timestamp="1623064451380">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.right/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623064451380" />
+    <state width="2518" height="392" key="GridCell.Tab.1.bottom" timestamp="1623064451381">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.1.bottom/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623064451381" />
+    <state width="2518" height="392" key="GridCell.Tab.1.center" timestamp="1623064451380">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.1.center/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623064451380" />
+    <state width="2518" height="392" key="GridCell.Tab.1.left" timestamp="1623064451380">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.1.left/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623064451380" />
+    <state width="2518" height="392" key="GridCell.Tab.1.right" timestamp="1623064451381">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.1.right/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623064451381" />
+    <state x="1251" y="596" key="psd.add.library.dependency.panel.dimension" timestamp="1623043962333">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="1251" y="596" key="psd.add.library.dependency.panel.dimension/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623043962333" />
+    <state x="967" y="358" key="psd.add.module.dependency.panel.dimension" timestamp="1623043969617">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="967" y="358" key="psd.add.module.dependency.panel.dimension/0.23.2560.1365/-1792.290.1792.1097@0.23.2560.1365" timestamp="1623043969617" />
   </component>
 </project>
