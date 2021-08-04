@@ -4,7 +4,7 @@ import android.content.Context
 import android.graphics.Color
 import androidx.core.content.ContextCompat
 
-/*
+/* odsay api type
 * 서울 간선, 지선, 마을, 순환, 광역, 심야,
 * 인천 간선, 급행간선, 지선, 시내좌석, 시외좌석, 공항좌석, 광역, 공영, 강화,
 * 경기도 시내일반, 일반좌석, 직행좌석, 간선급행, 경기순환, 굿모닝, 마을,
@@ -25,7 +25,7 @@ import androidx.core.content.ContextCompat
 * */
 object BusUtils {
     @JvmStatic
-    fun getBusColor(bustype: Int): Int {
+    fun getBusColor(context: Context, bustype: Int): Int {
         return Color.parseColor(
             when (bustype) {
                 1 -> "#2CAA9F"
@@ -41,43 +41,41 @@ object BusUtils {
                 14 -> "#F41409"
                 15 -> "#F41409"
                 22 -> "#8F106D"
-                26 -> "#5112AB"
-                29 -> "#2C2C2C"
-                30 -> "#e94e53"
-                else -> "#2B52B9"
+                26 -> "#2B52B9"
+                else -> "#2CAA9F"
             }
         )
     }
 
-    @JvmStatic
-    fun getBusColor(context: Context, bustype: Int): Int {
-        return ContextCompat.getColor(
-            context,
-            when (bustype) {
-                1 -> R.color.gyeonggi_bus_normal
-                2 -> R.color.gyeonggi_bus_seat
-                3 -> R.color.gyeonggi_bus_town
-                4 -> R.color.gyeonggi_bus_direct_seat
-                5 -> R.color.incheon_bus_airport_seat
-                6 -> R.color.gyeonggi_bus_express_long
-                10 -> R.color.bus_outer
-                11 -> R.color.seoul_bus_long
-                12 -> R.color.seoul_bus_short
-                13 -> R.color.gyeonggi_bus_circuit
-                14 -> R.color.gyeonggi_bus_express_long
-                15 -> R.color.gyeonggi_bus_express_long
-                22 -> R.color.gyeonggi_bus_intercity
-                26 -> R.color.incheon_bus_long_express
-                else -> R.color.none
-            }
-        )
-    }
+//    @JvmStatic
+//    fun getBusColor(context: Context, bustype: Int): Int {
+//        return ContextCompat.getColor(
+//            context,
+//            when (bustype) {
+//                1 -> "#009296"
+//                2 -> "#0068B7"
+//                3 -> "#FFC600"
+//                4 -> "#E60012"
+//                5 -> "#3d5bab"
+//                6 -> "#E60012"
+//                10 -> "#43b1bd"
+//                11 -> "#0068B7"
+//                12 -> "#53b332"
+//                13 -> "#E60012"
+//                14 -> "#E60012"
+//                15 -> "#E60012"
+//                22 -> "#a800ff"
+//                26 -> "#5112ab"
+//                else ->"#ffffff"
+//            }
+//        )
+//    }
 
     @JvmStatic
-    fun getBusColor(context: Context, bustype: Int, localName: String): Int {
+    fun getBusColor(context: Context, busType: Int, localName: String): Int {
         return ContextCompat.getColor(
             context,
-            when (bustype) {
+            when (busType) {
                 1 -> R.color.gyeonggi_bus_normal
                 2 -> R.color.gyeonggi_bus_seat
                 3 -> when (localName) {

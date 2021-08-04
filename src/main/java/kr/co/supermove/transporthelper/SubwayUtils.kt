@@ -166,6 +166,51 @@ object SubwayUtils {
             }
         )
     }
+//
+//    @JvmStatic
+//    fun getMetroColor(c: Context, no: Int): Int {
+//        return ContextCompat.getColor(
+//            c, when (no) {
+//                1 -> #1D2984
+//                2 -> #34AA39
+//                3 -> #FC5C08
+//                4 -> #278BD6
+//                5 -> #7412D8
+//                6 -> #A43C0C
+//                7 -> #566111
+//                8 -> #DC005B
+//                9 -> #C2952D
+//                100 -> #FEC629
+//                108 -> #278955
+//                101 -> #5893C6
+//                111 -> #FEC629
+//                112 -> R.color.seoul_subway_kyongkang
+//                104 -> R.color.seoul_subway_kyongui_jungang
+//                107 -> R.color.seoul_subway_everline
+//                102 -> R.color.incheon_subway_mf
+//                21 -> R.color.incheon_subway_1
+//                22 -> R.color.incheon_subway_2
+//                109 -> R.color.bundang_subway_new
+//                110 -> R.color.uijeongbu_subway
+//                113 -> R.color.seoul_subway_uisinseol
+//                114 -> R.color.seoul_subway_seohae
+//                31 -> R.color.deajeon_subway_1
+//                41 -> R.color.deagu_subway_1
+//                42 -> R.color.deagu_subway_2
+//                43 -> R.color.deagu_subway_3
+//                51 -> R.color.gwangju_subway_1
+//                71 -> R.color.busan_subway_1
+//                72 -> R.color.busan_subway_2
+//                73 -> R.color.busan_subway_3
+//                74 -> R.color.busan_subway_4
+//                78 -> R.color.busan_subway_donghea
+//                79 -> R.color.busan_subway_gimhea
+//                -1 -> R.color.none
+//                else -> R.color.seoul_subway_everline
+//            }
+//        )
+//    }
+
 
     fun getMetroStationName(no: Int): String {
         return when (no) {
